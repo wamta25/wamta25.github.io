@@ -26,6 +26,7 @@ The venue for all talks is the University of Tennessee, Knoxville Student Union 
 <li> <a href="/assets/timetable.pdf">Schedule</a> </li>
 <li> <a href="/assets/wamta24_abstracts.pdf">Book of Abstracts</a></li>
 <li> <a href="https://zenodo.org/communities/wamta24">Collection of slides and posters</a></li>
+<li> <a href="/assets/WAMTA-group-full.jpg">Group picture</a></li>
 </ul>
 
 {% include contact-us.html %}
