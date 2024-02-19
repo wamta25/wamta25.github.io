@@ -1,11 +1,10 @@
-full_title: Workshop on Asynchronous Many-Task Systems and Applications 2024
-short_title: WAMTA 24
+full_title: Workshop on Asynchronous Many-Task Systems and Applications 2025
+short_title: WAMTA 25
 email: patrickdiehl@lsu.edu
 description: > # this means to ignore newlines until "baseurl:"
   The workshop on Asynchronous Many-Task Systems and Applications brings together AMT developers and application developers.
 location: Knoxville, TN, USA
 date: February 14th to 16th, 2024
-# logo_path: ./assets/images/logo2017.jpg
 logo_path: ./assets/images/logo.png
 slideshow:
   - id: 0
@@ -13,7 +12,7 @@ slideshow:
     description: 
     photographer_name: 
     photographer_link: 
-    active: True
+    active: False
 navbar:
   - id: 0
     label: Home
@@ -26,7 +25,7 @@ navbar:
   - id: 2
     label: CfP
     path: /cfp
-    visible: True
+    visible: False
   - id: 3
     label: Submission
     path: /submission
@@ -34,19 +33,19 @@ navbar:
   - id: 4
     label: Program
     path: /program
-    visible: True
+    visible: False
   - id: 5
     label: Travel
     path: /venue
-    visible: True
+    visible: False
   - id: 6
     label: Registration
     path: /registration
-    visible: True
+    visible: False
   - id: 7
     label: Keynote speakers
     path: /keynote
-    visible: True
+    visible: False
 deadlines:
   - date: 14/12/2023
     text: Deadline for abstract and poster submission
@@ -63,20 +62,12 @@ deadlines:
   - date: 29/02/2024
     text: Deadline for camera-ready paper submission
     pass_due: False
-news:
-  - date: 
-    text: Sean Treichler (NVIDIA) confirmed as keynote speaker.  
-  - date: 
-    text: Jeffrey Vetter (ORNL) confirmed as keynote speaker. 
-  - date: 
-    text: Robert Harrison (Stony Brook University) confirmed as keynote speaker. 
+#news:
+#  - date: 
+#    text: Sean Treichler (NVIDIA) confirmed as keynote speaker.  
 sponsors:
   - name: TCL
     logo_path: ./assets/images/sponsors/tcl.png
-  - name: CCT
-    logo_path: ./assets/images/sponsors/cct.png
-  - name: ICL
-    logo_path: ./assets/images/sponsors/icl-1.png
 social_media:
   facebook_link:
   twitter_link:
