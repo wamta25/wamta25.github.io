@@ -10,10 +10,10 @@ slide_id: 0
 
 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 text-justify conference-text" markdown="1">
 
-##### WELCOME TO WAMTA 2024\!
+##### WELCOME TO WAMTA 2025\!
 
-The WAMTA 2024 workshop is scheduled as a <b>in-person</b> event in February 2024 and will be
-held at Knoxville, TN, USA. 
+The WAMTA 2024 workshop is scheduled as a <b>in-person</b> event in February 2025 and will be
+held in Saint Louis, MO, USA. 
 {: .lead}
 
 As our compute capacity grows, science simulations are not only becoming
@@ -52,7 +52,8 @@ The topics of interest include, but are by no means limited to:
   - Hardware challenges and solutions in using task-based environments
   
 Previous events:
-  
+
+* [WAMTA 2024](https://wamta24.icl.utk.edu/) @ [ICL](https://icl.utk.edu/)/[UTK](https://www.utk.edu/) - [Artifacts](https://zenodo.org/communities/wamta24)
 * [WAMTA 2023](https://wamta23.stellar-group.org/) @ [CCT](https://www.cct.lsu.edu/)/[LSU](https://lsu.edu/) - [Artifacts](https://zenodo.org/communities/wamta23?q=&l=list&p=1&s=10&sort=newest)
 
 {% include contact-us.html %}
