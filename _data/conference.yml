@@ -46,22 +46,10 @@ navbar:
     label: Keynote speakers
     path: /keynote
     visible: False
-deadlines:
-  - date: 14/12/2023
-    text: Deadline for abstract and poster submission
-    pass_due: true
-  - date: 21/12/2023
-    text: Author notification for poster and talks
-    pass_due: true
-  - date: 07/02/2024
-    text: Deadline for proceedings paper submission
-    pass_due: False
-  - date: 21/02/2024
-    text: Author notification for proceedings papers
-    pass_due: False
-  - date: 29/02/2024
-    text: Deadline for camera-ready paper submission
-    pass_due: False
+#deadlines:
+#  - date: 14/12/2023
+#    text: Deadline for abstract and poster submission
+#    pass_due: true
 #news:
 #  - date: 
 #    text: Sean Treichler (NVIDIA) confirmed as keynote speaker.  
@@ -75,18 +63,9 @@ program_chair:
   - name: Patrick Diehl
     org: Louisiana State University (USA)
     homepage: https://www.diehlpk.de/
-  - name: George Bosilca
-    org: University of Tennessee at Knoxville (USA)
-    homepage: https://www.eecs.utk.edu/people/george-bosilca/
-  - name: Pedro Valero-Lara
-    org: Oak Ridge National Laboratory (USA)
-    homepage: https://www.ornl.gov/staff-profile/pedro-valero-lara
-  - name: Joseph Schuchart
-    org: University of Tennessee at Knoxville (USA)
-    homepage:
-  - name: Thomas Herault
-    org: University of Tennessee at Knoxville (USA)
-    homepage: https://www.eecs.utk.edu/people/thomas-herault/
+  - name: Qinglei Cao
+    org: Saint Louis University (USA)
+    homepage: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/qinglei-cao.php
 steering_committee:
   - name: Alex Aiken
     org: Stanford (USA)
