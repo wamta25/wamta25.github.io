@@ -12,8 +12,7 @@ slide_id: 0
 
 ##### WELCOME TO WAMTA 2025\!
 
-The WAMTA 2024 workshop is scheduled as a <b>in-person</b> event in February 2025 and will be
-held in Saint Louis, MO, USA. 
+The WAMTA 2025 workshop is scheduled as a <b>in-person</b> event in February 19th to 21th, 2025 and will be held in Saint Louis, MO, USA. 
 {: .lead}
 
 As our compute capacity grows, science simulations are not only becoming
