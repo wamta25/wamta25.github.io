@@ -97,6 +97,9 @@ steering_committee:
   - name: Brad Chamberlain
     org: HPE and University of Washington (USA)
     homepage: https://homes.cs.washington.edu/~bradc/
+  - name: John D. Leidel
+    org: Tactical Computing Laboratories
+    homepage: https://www.linkedin.com/in/john-leidel-5415492/
 technical_program_committee:
   - name: Brad Richardson
     org: Sourcery Institute (USA)
