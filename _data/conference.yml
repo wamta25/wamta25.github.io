@@ -161,6 +161,9 @@ technical_program_committee:
   - name: Jonas Posner
     org: University of Kassel (Germany)
     homepage:
+  - name: Chris Taylor
+    org: Tactical Computing Laboratories
+    homepage:
 technical_program_chair:
   - name:  Patrick Diehl
     org: Louisiana State University (USA)
