@@ -19,11 +19,11 @@ This workshop explores the advantages of task-based programming on modern and fu
 
 <div class="col-sm-12 col-xs-12 col-md-6 col-lg-6 col-xl-6 conference-text text-justify" markdown="1">
 
-Authors need to submit their work through [EasyChair](https://easychair.org/conferences/?conf=wamta24). Submissions must be in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+Authors need to submit their work through [EasyChair](https://easychair.org/conferences/?conf=wamta2025). Submissions must be in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 
 **Abstracts**:
 
-Authors are invited to submit abstracts and indicate if they will submit a short or full paper. This is a two step process and authors will first submit the abstract (December 14th) and later submit the short or full paper (January 15th).  
+Authors are invited to submit abstracts and indicate if they will submit a short or full paper. This is a two step process and authors will first submit the abstract (October 4th) and later submit the short or full paper (January 17th).  
 
 **Full Papers**:
 Authors are invited to submit original papers of between ten and twelve pages, including text, the references section, appendices, and figures.
@@ -37,13 +37,21 @@ All submitted manuscripts will be checked for originality by [iThenticate](https
 **Best Paper/Poster Award**:
 The Best Paper/Poster Award will be selected on the basis of explicit recommendations of the reviewers and their scoring towards the paper’s originality and quality.
 
-**Important Dates**:
+<!---
+**Important Dates (AoE)**:
 
-**Submission Deadline:** TBA
+**Submission Deadline (Abstract):** October 4th
 
-**Notification of Acceptance:** TBA
+**Notification of Acceptance (Abstract):** October 18th
 
-**Camera-ready paper:** TBA
+**Submission Deadline (Paper):** January 17th
+
+**Notification of Acceptance (Paper):** January 31th
+
+**Camera-ready paper:** February 14th
+-->
+
+{% include card-important-dates.html %}
 
 </div>
 

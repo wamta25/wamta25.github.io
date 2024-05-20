@@ -25,6 +25,12 @@ slideshow:
     photographer_name: 
     photographer_link: 
     active: False 
+  - id: 3
+    image_path: ./assets/images/slideshow/image3.jpg
+    description: 
+    photographer_name: 
+    photographer_link: 
+    active: False 
 navbar:
   - id: 0
     label: Home
@@ -45,23 +51,36 @@ navbar:
   - id: 4
     label: Program
     path: /program
-    visible: False
+    visible: False 
   - id: 5
     label: Travel
     path: /venue
-    visible: False
+    visible: True
   - id: 6
     label: Registration
     path: /registration
-    visible: False
+    visible: True
   - id: 7
     label: Keynote speakers
     path: /keynote
-    visible: False
-#deadlines:
-#  - date: 14/12/2023
-#    text: Deadline for abstract and poster submission
-#    pass_due: true
+    visible: True
+deadlines:
+  - date: October 4, 2024
+    text: Deadline for abstract and poster submission
+    pass_due: False 
+  - date: October 18, 2024
+    text: Notification of acceptance (abstract and poster) 
+    pass_due: False 
+  - date: January 17, 2025
+    text: Deadline for paper submission
+    pass_due: False 
+  - date: January 31, 2025 
+    text: Notification of acceptance (paper) 
+    pass_due: False 
+  - date: February 14, 2025
+    text: Deadline for camera-ready paper 
+    pass_due: False 
+
 #news:
 #  - date: 
 #    text: Sean Treichler (NVIDIA) confirmed as keynote speaker.  
@@ -164,16 +183,34 @@ technical_program_committee:
   - name: Chris Taylor
     org: Tactical Computing Laboratories
     homepage:
+  - name: Thomas Herault 
+    org: University of Tennessee, Knoxville 
+    homepage:
+  - name: Aurelien Bouteiller 
+    org: University of Tennessee, Knoxville 
+    homepage:
+  - name: Joseph Schuchart 
+    org: University of Tennessee, Knoxville 
+    homepage:
+  - name: Rabab Alomairy 
+    org: Massachusetts Institute of Technology 
+    homepage:
+  - name: Julian Samaroo 
+    org: Massachusetts Institute of Technology 
+    homepage:
+  - name: Wei Wu 
+    org: NVIDIA 
+    homepage:
 technical_program_chair:
   - name:  Patrick Diehl
     org: Louisiana State University (USA)
     homepage: https://www.diehlpk.de/
-  - name: Pedro Valero Lara 
-    org:  Oak Ridge National Laboratory (USA)
-    homepage: https://www.ornl.gov/staff-profile/pedro-valero-lara 
   - name: George Bosilca
-    org:  University of Tennessee, Knoxville (USA)
+    org: NVIDIA 
     homepage: https://icl.utk.edu/~bosilca/
+  - name: Qinglei Cao
+    org: Saint Louis University (USA)
+    homepage: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/qinglei-cao.php
 webmaster:
   - name: Parsa Amini
     org: Halpern-Wight Inc. (USA)
