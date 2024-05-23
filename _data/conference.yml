@@ -1,5 +1,5 @@
-full_title: Workshop on Asynchronous Many-Task Systems and Applications 2025
-short_title: WAMTA 25
+full_title: Workshop on Asynchronous Many-Task Systems and Applications
+short_title: WAMTA 2025
 email: qinglei.cao@slu.edu 
 description: > # this means to ignore newlines until "baseurl:"
   The workshop on Asynchronous Many-Task Systems and Applications brings together AMT developers and application developers.
@@ -183,9 +183,6 @@ technical_program_committee:
   - name: Chris Taylor
     org: Tactical Computing Laboratories
     homepage:
-  - name: Thomas Herault 
-    org: University of Tennessee, Knoxville 
-    homepage:
   - name: Aurelien Bouteiller 
     org: University of Tennessee, Knoxville 
     homepage:
@@ -208,6 +205,9 @@ technical_program_chair:
   - name: George Bosilca
     org: NVIDIA 
     homepage: https://icl.utk.edu/~bosilca/
+  - name: Thomas Herault 
+    org: University of Tennessee, Knoxville (USA) 
+    homepage: https://icl.utk.edu/people/profile/herault
   - name: Qinglei Cao
     org: Saint Louis University (USA)
     homepage: https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/qinglei-cao.php
