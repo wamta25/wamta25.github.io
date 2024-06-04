@@ -81,9 +81,9 @@ deadlines:
     text: Deadline for camera-ready paper 
     pass_due: False 
 
-#news:
-#  - date: 
-#    text: Sean Treichler (NVIDIA) confirmed as keynote speaker.  
+news:
+  - date: 
+    text: Hatem Ltaief (KAUST) confirmed as keynote speaker. 
 sponsors:
   - name: TCL
     logo_path: ./assets/images/sponsors/tcl.png
