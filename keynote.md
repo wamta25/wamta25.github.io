@@ -6,10 +6,9 @@ slide_id: 1
 <div class="card">
 	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote I</div>
 	<div style="margin: 10px">
-		<h5>TBA</h5>
+		<h5>Chaos to Cosmos: Orchestrating Complex Scientific Applications with Dynamic Runtime Systems</h5>
+		<p>Hatem Ltaief, KAUST</p>
 	<!---
-		<h5>Too Much Parallelism, and the Need for Compiler Support in Asynchronous Many-Task Systems</h5>
-		<p>Sean Treichler, NVIDIA</p>
         From the start, Legion was designed to be part of a larger software stack, with a distributed execution runtime
 (i.e. Realm) below it, but also libraries, frameworks, and DSLs above it. Early successes with Legion came from
 application code written directly to the Legion API, but more recently the vision of being an enabler for higher
