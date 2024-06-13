@@ -30,8 +30,10 @@ optimizations like this (i.e. compilers) is severely underrepresented, and we sh
 <div class="card">
 	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote II</div>
 		<div style="margin: 10px">
-		<h5>TBA</h5>
+			<h5>Alan Edelman, MIT</h5>
 	<!---
+			<p>Alan Edelman, MIT</p>
+			<h5>TBA</h5>
 		<h5>Deep Codesign in the Post-Exascale Computing Era</h5>
 		<p>Jeffrey Vetter, Oak Ridge National Laboratory, <a href="https://vetter.github.io/">https://vetter.github.io/</a></p>
 		<p markdown="1">
