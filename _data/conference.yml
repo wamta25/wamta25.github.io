@@ -86,6 +86,8 @@ news:
     text: Hatem Ltaief (KAUST) confirmed as keynote speaker. 
   - date: 
     text: Alan Edelman (MIT) confirmed as keynote speaker. 
+  - date:
+    text: Christian Trott (SNL) confirmed as keynote speaker.
 sponsors:
   - name: TCL
     logo_path: ./assets/images/sponsors/tcl.png
