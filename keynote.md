@@ -52,14 +52,10 @@ optimizations like this (i.e. compilers) is severely underrepresented, and we sh
 <div class="card">
 	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote III</div>
 		<div style="margin: 10px">
-        <h5>TBA</h5>
+        <h5>Task-Graphs: Why aren't we all using them?</h5>
         <p>Christian Trott (SNL)</p>
-	<!---
-		<h5>MADNESS: A task-based application and runtime</h5>
-		<p>Robert J. Harrison, Stony Brook University</p>
 	<p markdown="1">
-	MADNESS (Multiresolution ADaptive Numerical Environment for Scientific Simulation) started as an environment for fast and accurate numerical simulation in chemistry, but rapidly expanded to include applications in nuclear physics (HF and DFT for nuclei), boundary value problems, solid state physics, and atomic and molecular physics. It is portable from laptops to the largest supercomputers, and is open-source under GPL2 with developers/users in the US, Europe, Japan, and China. MADNESS provides a very high level of composition for science applications in terms of functions and operators rather than coefficients and matrix elements.
-	</p>
-	-->
+	Task-Graphs are a very attractive concept to express complex algorithms, manage asynchronicity and expose available concurrency. However, very few HPC applications are written in terms of task-graphs.  In this talk I will provide reflections on what I believe some of the reasons are, based on the experience  gained with Kokkos adoption in the last decade. To ground the discussion, this talk will provide an overview of the Kokkos::Graph design - a Kokkos capability that despite being introduced 4 years ago, has found very little adoption. A comparison with CUDA Graphs will demonstrate design tradeoffs in this space, and help highlight  adoption hurdles and correctness pitfalls that are likely an important part of the reason why task-graphs are not more widely used. Last but not least the talk will touch on how the recently approved ISO C++ 26 Execution framework ("Senders and Receivers") can help overcome some of these adoption hurdles, and allow us to realize the promise of a task-graph based application design. 
+    </p>
     </div>
 </div>
