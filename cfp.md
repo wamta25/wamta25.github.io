@@ -23,7 +23,7 @@ Authors need to submit their work through [EasyChair](https://easychair.org/conf
 
 **Abstracts**:
 
-Authors are invited to submit abstracts and indicate if they will submit a short or full paper. This is a two step process and authors will first submit the abstract (October 4th) and later submit the short or full paper (January 17th).  
+Authors are invited to submit abstracts and indicate if they will submit a short or full paper. This is a two step process and authors will first submit the abstract (October <s>4th</s> 18th) and later submit the short or full paper (January 17th).  
 
 **Full Papers**:
 Authors are invited to submit original papers of between ten and twelve pages, including text, the references section, appendices, and figures.

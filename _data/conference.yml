@@ -65,14 +65,14 @@ navbar:
     path: /keynote
     visible: Truee
 deadlines:
-  - date: October 4, 2024
-    text: Deadline for abstract and poster submission
-    pass_due: False 
   - date: October 18, 2024
+    text: Deadline for abstract and poster submissions
+    pass_due: False 
+  - date: October 31, 2024
     text: Notification of acceptance (abstract and poster) 
     pass_due: False 
   - date: January 17, 2025
-    text: Deadline for paper submission
+    text: Deadline for paper submissions
     pass_due: False 
   - date: January 31, 2025 
     text: Notification of acceptance (paper) 
