@@ -17,7 +17,11 @@ slide_id: 3
 <!---
 Please register for the workshop <a href="https://utconferences.eventsair.com/wamta-2024/wamta2024-register">here</a>. Registration for in-person attendance is strongly encouraged but virtual attendance is available. For all questions and concerns about the registration contact <a href="mailto:schuchart@icl.utk.edu">Joseph Schuchart</a>.
 --->
-Registration will be open after paper submission. Registration for in-person attendance is strongly encouraged but virtual attendance is available. For all questions and concerns about the registration contact <a href="mailto:qinglei.cao@slu.edu">Qinglei Cao</a>.
+Registration will be open soon. 
+
+<!---
+Registration for in-person attendance is strongly encouraged but virtual attendance is also available. For all questions and concerns about the registration contact <a href="mailto:qinglei.cao@slu.edu">Qinglei Cao</a>.
+--->
 
 ##### VISA INFO:
 

@@ -59,18 +59,18 @@ navbar:
   - id: 6
     label: Registration
     path: /registration
-    visible: False
+    visible: True
   - id: 7
     label: Keynote speakers
     path: /keynote
-    visible: Truee
+    visible: True
 deadlines:
   - date: October 18, 2024
     text: Deadline for abstract and poster submissions
-    pass_due: False 
+    pass_due: True 
   - date: October 31, 2024
     text: Notification of acceptance (abstract and poster) 
-    pass_due: False 
+    pass_due: True 
   - date: January 17, 2025
     text: Deadline for paper submissions
     pass_due: False 
