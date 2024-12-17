@@ -14,7 +14,7 @@ The venue for all talks is the University of Tennessee, Knoxville Student Union 
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "28b4895f210d44edb3d5eefe7945ca8a", divId: "adobe-dc-view"});
+		var adobeDCView = new AdobeDC.View({clientId: "f1767f17cc044f7687c546cc669d5f27", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "/assets/timetable.pdf"}},
 			metaData:{fileName: "timetable.pdf"}
@@ -24,9 +24,6 @@ The venue for all talks is the University of Tennessee, Knoxville Student Union 
 
 <ul>
 <li> <a href="/assets/timetable.pdf">Schedule</a> </li>
-<li> <a href="/assets/wamta24_abstracts.pdf">Book of Abstracts</a></li>
-<li> <a href="https://zenodo.org/communities/wamta24">Collection of slides and posters</a></li>
-<li> <a href="/assets/WAMTA-group-full.jpg">Group picture</a></li>
 </ul>
 
 {% include contact-us.html %}
