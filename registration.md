@@ -14,14 +14,11 @@ slide_id: 3
 
 ##### REGISTRATION
 
-<!---
-Please register for the workshop <a href="https://utconferences.eventsair.com/wamta-2024/wamta2024-register">here</a>. Registration for in-person attendance is strongly encouraged but virtual attendance is available. For all questions and concerns about the registration contact <a href="mailto:schuchart@icl.utk.edu">Joseph Schuchart</a>.
---->
-Registration will be open soon. 
 
-<!---
-Registration for in-person attendance is strongly encouraged but virtual attendance is also available. For all questions and concerns about the registration contact <a href="mailto:qinglei.cao@slu.edu">Qinglei Cao</a>.
---->
+The registration fee is a fixed amount of $300. Please register for the workshop <a href="https://billpay.slu.edu:443/C20197_ustores/web/store_main.jsp?STOREID=201&FROMQRCODE=true">here</a>. Registration for in-person attendance is strongly encouraged but virtual attendance is available. A survey will be distributed later to gather information about dietary preferences for lunches and dinners.  
+
+For all questions and concerns about the registration contact <a href="mailto:qinglei.cao@slu.edu">Qinglei Cao</a>. Thank you!
+
 
 ##### VISA INFO:
 

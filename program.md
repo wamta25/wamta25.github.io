@@ -3,7 +3,7 @@ layout: page
 slide_id: 4
 ---
 
-The venue for all talks is the University of Tennessee, Knoxville Student Union Building, <b>Room 169</b>, 1502 Cumberland Avenue, Knoxville, TN 37996.
+All talks will take place at Saint Louis University, St. Louis, MO 63103.
 
 <div class="row">
 
