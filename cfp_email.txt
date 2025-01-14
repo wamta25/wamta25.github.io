@@ -19,7 +19,7 @@ Authors need to submit their work through EasyChair (https://easychair.org/confe
 Submissions must be in Springer LNCS format (https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 
 Abstracts:
-Authors are invited to submit abstracts and indicate if they will submit a short or full paper. This is a two step process and authors will first submit the abstract (October <s>4th</s> 18th) and later submit the short or full paper (January 17th).  
+Authors are invited to submit abstracts and indicate if they will submit a short or full paper. This is a two step process and authors will first submit the abstract (October <s>4th</s> 18th) and later submit the short or full paper (January 31st).  
 
 Full Papers:
 Authors are invited to submit original papers of between ten and twelve pages, including text, the references section, appendices, and figures.
@@ -36,6 +36,6 @@ The Best Paper/Poster Award will be selected on the basis of explicit recommenda
 Important Dates:
 Abstract Submission Deadline: October <s>4th</s> 18th 
 Abstract Notification of Acceptance: October <s>31st</s> 
-Full/Short Paper Submission Deadline: January 17, 2024
-Notification of Acceptance: January 31st 
-Camera-ready Paper: February 14th
+Full/Short Paper Submission Deadline: January 31st, 2025
+Notification of Acceptance: February 14th, 2025 
+Camera-ready Paper: February 21st, 2025
