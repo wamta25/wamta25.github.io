@@ -72,7 +72,7 @@ deadlines:
     text: Notification of acceptance (abstract and poster) 
     pass_due: True 
   - date: February 7, 2025
-    text: Deadline for paper submissions
+    text: Deadline for paper submissions (Final Extension)
     pass_due: False 
   - date: February 14, 2025 
     text: Notification of acceptance (paper) 
