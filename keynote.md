@@ -5,22 +5,16 @@ slide_id: 1
 
 <div class="card">
     <div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote I</div>
-        <div style="margin: 10px">
-            <h5>TBA</h5>
-            <p>Alan Edelman, MIT</p>
-    <!---
-            <p>Alan Edelman, MIT</p>
-            <h5>TBA</h5>
-        <h5>Deep Codesign in the Post-Exascale Computing Era</h5>
-        <p>Jeffrey Vetter, Oak Ridge National Laboratory, <a href="https://vetter.github.io/">https://vetter.github.io/</a></p>
+    <div style="margin: 10px">
+        <h5>Improving the HPC experience, did Julia get it right or will AI hide the problem (or both)?</h5>
+        <p>Alan Edelman, MIT</p>
         <p markdown="1">
-            DOE has just deployed its first Exascale system at ORNL, so now is an appropriate time to revisit our Exascale predictions from over a decade ago 
-            and think about post-Exascale. We are now seeing a Cambrian explosion of new technologies during this ‘golden age of architectures,’ making codesign of architectures 
-            with software and applications more critical than ever. In this talk, I will revisit the Exascale trajectory, survey post-Exascale technologies, and discuss their implications 
-            for both system design and software. As an example, I will describe Abisko, a new microelectronics codesign project, that focuses on designing a chiplet for analog spiking neural 
-            networks using novel neuromorphic materials like electrochemical random access memory.
+            For years I was sad that not enough hard work went into making HPC much easier on the human, and much more portable. I kind of felt that there was too much chasing "machoflops" and not enough software engineering that would result in bringing more programmers to HPC. My benchmark was how many undergraduates are using HPC for interesting projects. Another observation was that it seemed infrastructure was rarely funded or encouraged.
         </p>
-    -->
+
+        <p markdown="1">
+            Julia has been and is making strides in this direction, but new to the table is AI (something this tech lover turned luddite wanted to avoid always fearful this bandwagon is going to collapse and collapse hard.) I will talk about the original ongoing efforts and our SmartSolve (Funded by DARPA DIAL) project that we hope will bring everything together for HPC. Most importantly we will encourage everyone to participate; we can not do this entirely ourselves and value your contributions.
+        </p>
     </div>
 </div>
 
