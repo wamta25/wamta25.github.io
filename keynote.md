@@ -19,7 +19,7 @@ slide_id: 1
 </div>
 
 <div class="card">
-	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote III</div>
+	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote II</div>
 		<div style="margin: 10px">
         <h5>Task-Graphs: Why aren't we all using them?</h5>
         <p>Christian Trott (SNL)</p>
@@ -29,7 +29,7 @@ slide_id: 1
 </div>
 
 <div class="card">
-	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote II</div>
+	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote III</div>
 	<div style="margin: 10px">
 		<h5>Chaos to Cosmos: Orchestrating Complex Scientific Applications with Dynamic Runtime Systems</h5>
 		<p>Hatem Ltaief, KAUST</p>
