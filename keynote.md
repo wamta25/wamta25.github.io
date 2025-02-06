@@ -19,6 +19,16 @@ slide_id: 1
 </div>
 
 <div class="card">
+	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote III</div>
+		<div style="margin: 10px">
+        <h5>Task-Graphs: Why aren't we all using them?</h5>
+        <p>Christian Trott (SNL)</p>
+	<p markdown="1">
+	Task-Graphs are a very attractive concept to express complex algorithms, manage asynchronicity and expose available concurrency. However, very few HPC applications are written in terms of task-graphs.  In this talk I will provide reflections on what I believe some of the reasons are, based on the experience  gained with Kokkos adoption in the last decade. To ground the discussion, this talk will provide an overview of the Kokkos::Graph design - a Kokkos capability that despite being introduced 4 years ago, has found very little adoption. A comparison with CUDA Graphs will demonstrate design tradeoffs in this space, and help highlight  adoption hurdles and correctness pitfalls that are likely an important part of the reason why task-graphs are not more widely used. Last but not least the talk will touch on how the recently approved ISO C++ 26 Execution framework ("Senders and Receivers") can help overcome some of these adoption hurdles, and allow us to realize the promise of a task-graph based application design. 
+    </p>
+</div>
+
+<div class="card">
 	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote II</div>
 	<div style="margin: 10px">
 		<h5>Chaos to Cosmos: Orchestrating Complex Scientific Applications with Dynamic Runtime Systems</h5>
@@ -43,13 +53,5 @@ optimizations like this (i.e. compilers) is severely underrepresented, and we sh
 </div>
 
 
-<div class="card">
-	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote III</div>
-		<div style="margin: 10px">
-        <h5>Task-Graphs: Why aren't we all using them?</h5>
-        <p>Christian Trott (SNL)</p>
-	<p markdown="1">
-	Task-Graphs are a very attractive concept to express complex algorithms, manage asynchronicity and expose available concurrency. However, very few HPC applications are written in terms of task-graphs.  In this talk I will provide reflections on what I believe some of the reasons are, based on the experience  gained with Kokkos adoption in the last decade. To ground the discussion, this talk will provide an overview of the Kokkos::Graph design - a Kokkos capability that despite being introduced 4 years ago, has found very little adoption. A comparison with CUDA Graphs will demonstrate design tradeoffs in this space, and help highlight  adoption hurdles and correctness pitfalls that are likely an important part of the reason why task-graphs are not more widely used. Last but not least the talk will touch on how the recently approved ISO C++ 26 Execution framework ("Senders and Receivers") can help overcome some of these adoption hurdles, and allow us to realize the promise of a task-graph based application design. 
-    </p>
-    </div>
+
 </div>
