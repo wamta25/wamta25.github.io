@@ -3,7 +3,7 @@ layout: page
 slide_id: 4
 ---
 
-All talks will take place at Saint Louis University, St. Louis, MO 63103. A virtual option is also available via Zoom at: https://slu.zoom.us/my/qingleicao.
+All talks will take place at Saint Louis University, St. Louis, MO 63103. A virtual option is also available via Zoom at: <a href="https://slu.zoom.us/my/qingleicao">https://slu.zoom.us/my/qingleicao</a>.
 
 <div class="row">
 
