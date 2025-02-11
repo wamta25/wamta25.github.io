@@ -96,7 +96,7 @@ social_media:
   twitter_link:
 program_chair:
   - name: Patrick Diehl
-    org: Louisiana State University (USA)
+    org: Los Alamos National Laboratory (USA)
     homepage: https://www.diehlpk.de/
   - name: Qinglei Cao
     org: Saint Louis University (USA)
@@ -198,7 +198,7 @@ technical_program_committee:
     homepage:
 technical_program_chair:
   - name:  Patrick Diehl
-    org: Louisiana State University (USA)
+    org: Los Alamos National Laboratory (USA)
     homepage: https://www.diehlpk.de/
   - name: George Bosilca
     org: NVIDIA 
