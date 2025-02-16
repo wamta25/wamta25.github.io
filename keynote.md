@@ -27,31 +27,19 @@ slide_id: 1
 	Task-Graphs are a very attractive concept to express complex algorithms, manage asynchronicity and expose available concurrency. However, very few HPC applications are written in terms of task-graphs.  In this talk I will provide reflections on what I believe some of the reasons are, based on the experience  gained with Kokkos adoption in the last decade. To ground the discussion, this talk will provide an overview of the Kokkos::Graph design - a Kokkos capability that despite being introduced 4 years ago, has found very little adoption. A comparison with CUDA Graphs will demonstrate design tradeoffs in this space, and help highlight  adoption hurdles and correctness pitfalls that are likely an important part of the reason why task-graphs are not more widely used. Last but not least the talk will touch on how the recently approved ISO C++ 26 Execution framework ("Senders and Receivers") can help overcome some of these adoption hurdles, and allow us to realize the promise of a task-graph based application design. 
     </p>
 </div>
+</div>
 
 <div class="card">
 	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote III</div>
 	<div style="margin: 10px">
 		<h5>Chaos to Cosmos: Orchestrating Complex Scientific Applications with Dynamic Runtime Systems</h5>
 		<p>Hatem Ltaief, KAUST</p>
-	<!---
-        From the start, Legion was designed to be part of a larger software stack, with a distributed execution runtime
-(i.e. Realm) below it, but also libraries, frameworks, and DSLs above it. Early successes with Legion came from
-application code written directly to the Legion API, but more recently the vision of being an enabler for higher
-levels of abstraction is coming to fruition. I will review several of these efforts, talk about their successes in 
-scaling (whether to larger systems, larger workloads, or larger programmer audiences), and that will lead me into
-discussion of some key challenges that are becoming more critical as this scaling continues.
-<br><br>
-Legion, and really all AMT systems, are at risk of becoming victims of their success. If anything, they are too good
-at extracting parallelism from application code, and this manifests as increasing demands on the runtime portions
-of these systems at larger scales. Much of the analysis and decision making being performed in real time (and
-therefore with real overhead) is not actually contributing to improved performance because there was already
-enough work to keep processors busy and data movement latencies hidden. I'll touch on past and current efforts
-to attack this at the application level and in runtime implementation, but the best place in the stack to perform
-optimizations like this (i.e. compilers) is severely underrepresented, and we should fix that.
--->
+	<p markdown="1">
+Scientific computing is increasingly confronted with the challenge of orchestrating highly complex simulations and AI-driven workflows on heterogeneous hardware systems. The sheer scale of modern scientific applications—ranging from computational astronomy to genomic analysis and climate modeling—introduces difficult data dependencies, irregular execution patterns, and severe performance bottlenecks. Traditional static execution models when faced with complex irregular workflows struggle to efficiently harness the computational power of emerging hardware architectures, leading to suboptimal resource utilization and scalability limitations.  
+
+In this talk, we explore how dynamic runtime systems provide a paradigm shift, transforming computational chaos into a structured and efficient cosmos. We delve into research on task-based programming models, asynchronous execution, and mixed-precision algorithms, drawing from state-of-the-art developments in the field. By leveraging dynamic scheduling, data locality optimizations, and adaptive precision techniques, we demonstrate how these runtime systems mitigate bottlenecks, improve energy efficiency, and enable unprecedented scalability on modern supercomputing platforms.  
+
+By bridging the gap between numerical methods, system software, and cutting-edge hardware, this talk provides a roadmap for orchestrating complex scientific applications with dynamic, intelligent, and scalable runtime systems—turning computational disorder into scientific discovery.
+    </p>
 	</div>
-</div>
-
-
-
 </div>
