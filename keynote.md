@@ -36,9 +36,13 @@ slide_id: 1
 		<p>Hatem Ltaief, KAUST</p>
 	<p markdown="1">
 Scientific computing is increasingly confronted with the challenge of orchestrating highly complex simulations and AI-driven workflows on heterogeneous hardware systems. The sheer scale of modern scientific applications—ranging from computational astronomy to genomic analysis and climate modeling—introduces difficult data dependencies, irregular execution patterns, and severe performance bottlenecks. Traditional static execution models when faced with complex irregular workflows struggle to efficiently harness the computational power of emerging hardware architectures, leading to suboptimal resource utilization and scalability limitations.  
+    </p>
 
+    <p markdown="1">
 In this talk, we explore how dynamic runtime systems provide a paradigm shift, transforming computational chaos into a structured and efficient cosmos. We delve into research on task-based programming models, asynchronous execution, and mixed-precision algorithms, drawing from state-of-the-art developments in the field. By leveraging dynamic scheduling, data locality optimizations, and adaptive precision techniques, we demonstrate how these runtime systems mitigate bottlenecks, improve energy efficiency, and enable unprecedented scalability on modern supercomputing platforms.  
+    </p>
 
+    <p markdown="1">
 By bridging the gap between numerical methods, system software, and cutting-edge hardware, this talk provides a roadmap for orchestrating complex scientific applications with dynamic, intelligent, and scalable runtime systems—turning computational disorder into scientific discovery.
     </p>
 	</div>
