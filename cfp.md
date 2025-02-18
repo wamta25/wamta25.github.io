@@ -34,10 +34,11 @@ Alternative authors submit position papers and work-in-progress as short papers 
 At least three program committee members will review each submission. Reviews will be double-blind, and papers will be assessed for quality, relevance, and presentation of contributions. Springer LNCS will publish the accepted papers.
 All submitted manuscripts will be checked for originality by [iThenticate](https://www.ithenticate.com/) (papers that show insufficient originality might be rejected without a review).
 
-**Best Paper/Poster Award**:
-The Best Paper/Poster Award will be selected on the basis of explicit recommendations of the reviewers and their scoring towards the paper’s originality and quality.
+**Best Paper Award**:
+The Best Paper Award will be selected on the basis of explicit recommendations of the reviewers and their scoring towards the paper’s originality and quality.
 
 <!---
+The Best Paper/Poster Award will be selected on the basis of explicit recommendations of the reviewers and their scoring towards the paper’s originality and quality.
 **Important Dates (AoE)**:
 
 **Submission Deadline (Abstract):** October 4th
