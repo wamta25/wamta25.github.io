@@ -25,7 +25,7 @@ Busch Student Center **Room 256**, which is located at **20 N Grand Blvd, St. Lo
 <div class="text-info" >Day 2 (Thursday)</div>
 
 Morning: Busch Student Center **Room 254**, which is located at **20 N Grand Blvd, St. Louis, MO 63103**.
-Afternoon: Lecture Hall **Room 005**, which is located **3511 Laclede Ave, St. Louis, MO 63103**.
+Afternoon: Lecture Hall **Room 005**, which is located at **3511 Laclede Ave, St. Louis, MO 63103**.
 
 <center>
 <div style="width: 100%">
