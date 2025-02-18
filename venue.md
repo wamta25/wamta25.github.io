@@ -13,7 +13,7 @@ The WAMTA workshop is scheduled for Feb. 19-21, 2025, and will be held in St. Lo
 
 <div class="text-info" >Day 1 (Wednesday) and Day 3 (Friday)</div>
 
-Busch Student Center is located at **20 N Grand Blvd, St. Louis, MO 63103**. The workshop is held in **Room 256**.
+Busch Student Center **Room 256**, which is located at **20 N Grand Blvd, St. Louis, MO 63103**.
 
 <center>
 <div style="width: 100%">
@@ -24,11 +24,12 @@ Busch Student Center is located at **20 N Grand Blvd, St. Louis, MO 63103**. The
 
 <div class="text-info" >Day 2 (Thursday)</div>
 
-Busch Student Center  is located at **20 N Grand Blvd, St. Louis, MO 63103**. The workshop is held in **Room 254**.
+Morning: Busch Student Center **Room 254**, which is located at **20 N Grand Blvd, St. Louis, MO 63103**.
+Afternoon: Lecture Hall **Room 005**, which is located **3511 Laclede Ave, St. Louis, MO 63103**.
 
 <center>
 <div style="width: 100%">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d434.1186487863329!2d-90.23322266099943!3d38.634968593625814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87d8b4a3235cf41d%3A0xdad4b159553c87bd!2sBusch%20Student%20Center!5e0!3m2!1sen!2sus!4v1739838826869!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d590.043061897587!2d-90.23280694364786!3d38.6353415225206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x87d8b4a3235cf41d%3A0xdad4b159553c87bd!2sBusch%20Student%20Center%2C%20North%20Grand%20Boulevard%2C%20St.%20Louis%2C%20MO!3m2!1d38.6348913!2d-90.2331143!4m5!1s0x87d8b5ba637b3469%3A0x451030c172e37a50!2sLecture%20Hall%2C%203511%20Laclede%20Ave%2C%20St.%20Louis%2C%20MO%2063103!3m2!1d38.6348044!2d-90.2320867!5e0!3m2!1sen!2sus!4v1739898227416!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 </center>
 
