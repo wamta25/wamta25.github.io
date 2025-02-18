@@ -7,7 +7,7 @@ slide_id: 0
 <div class="row mt-xs-0 mt-sm-0 mt-md-1 mt-lg-2 mt-xl-3 mb-xs-2 mb-sm-2">
 <div class="col text-muted" markdown="1">
 
-The WAMTA workshop is scheduled for Feb. 19-21, 2025, and will be held in St. Louis, MO at Saint Louis University Lee Lecture Hall 001.
+The WAMTA workshop is scheduled for Feb. 19-21, 2025, and will be held in St. Louis, MO at Saint Louis University.
 
 <div class="text-info" >Conference Location:</div>
 
