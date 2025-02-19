@@ -74,10 +74,10 @@ deadlines:
   - date: February 7, 2025
     text: Deadline for paper submissions (Final Extension)
     pass_due: True 
-  - date: February 14, 2025 
+  - date: February 28, 2025 
     text: Notification of acceptance (paper) 
     pass_due: False 
-  - date: February 21, 2025
+  - date: March 14, 2025
     text: Deadline for camera-ready paper 
     pass_due: False 
 
