@@ -26,10 +26,8 @@ All talks will take place at Saint Louis University, St. Louis, MO 63103. A virt
 
 <ul>
 <li> <a href="/assets/timetable.pdf">Schedule</a> </li>
-</ul>
-
-<ul>
 <li> <a href="/assets/main.pdf">Book of Abstract</a> </li>
+<li> <a href="https://zenodo.org/communities/wamta25/">Collection of artifacts</a> </li>
 </ul>
 
 {% include contact-us.html %}
