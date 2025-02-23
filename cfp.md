@@ -13,6 +13,10 @@ The next generation of supercomputers will break the exascale barrier, and treme
 
 This workshop explores the advantages of task-based programming on modern and future HPC systems. It will gather developers, users, and proponents of these models and systems to share experiences, discuss how they meet the challenges posed by Exascale system architectures, and explore opportunities for increased performance, robustness, and full-system utilization.
 
+** Special issuse **
+
+Authors of accepted papers are invited to submit an extended paper to a special issue in SN Computer Science. Please have a look for more details [here](https://wamta25.github.io/special-issue).
+
 {% include contact-us.html %}
 
 </div>
