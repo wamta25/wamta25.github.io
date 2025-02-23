@@ -6,6 +6,7 @@ slide_id: 2
 <div class="row mt-xs-0 mt-sm-0 mt-md-1 mt-lg-2 mt-xl-3 mb-xs-2 mb-sm-2">
 
 <div class="col-sm-12 col-xs-12 col-md-6 col-lg-6 col-xl-6 text-justify conference-text" markdown="1">
+Special issue
 
 The authors of accpted papers in the workshop proceedings are invited to submit extended papers with 50% new content to the special issue "Recent advances in Asynchronous Many Task Runtime Systems" published in <a href="https://link.springer.com/journal/42979">SN Computer Science</a>.
 <br>
