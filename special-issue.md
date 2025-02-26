@@ -30,7 +30,7 @@ Authors need to submit their work through [Editorial manager](https://www.editor
 
 **Notification of Acceptance (Paper):** June 30th
 
-**Camera-ready paper:** June 16th
+**Camera-ready paper:** July 16th
 
 
 </div>
