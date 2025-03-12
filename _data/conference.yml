@@ -76,8 +76,8 @@ deadlines:
     pass_due: True 
   - date: February 28, 2025 
     text: Notification of acceptance (paper) 
-    pass_due: False 
-  - date: March 14, 2025
+    pass_due: True 
+  - date: TBA 
     text: Deadline for camera-ready paper 
     pass_due: False 
 
