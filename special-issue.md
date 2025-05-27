@@ -26,7 +26,7 @@ The special issue will be edited by
 Authors need to submit their work through [Editorial manager](https://www.editorialmanager.com/sncs/default2.aspx). Submissions need to follow the journals [author guidelines](https://link.springer.com/journal/42979/submission-guidelines#Instructions%20for%20Authors). The LaTeX template is available [here](https://www.springernature.com/gp/authors/campaigns/latex-author-support).
 
 
-**Submission Deadline:** May 30th
+**Submission Deadline:** <del>May 30th</del> June 15th. 
 
 **Notification of Acceptance (Paper):** June 30th
 
